@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="hello_birthday">Hello Birthday</string>
+    <string name="happy_birthday_text">Happy_Birthday,Dear</string>
+    <string name="Sign">From KR</string>
+    <string name="Sign_From">from  KR</string>
+    <string name="Sign_from">From KR</string>
+    <string name="image">image</string>
+</resources>
